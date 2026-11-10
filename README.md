@@ -12,19 +12,20 @@
 
 ## Brief Self-Introduction
 
-I am a junior backend developer from Minsk. At the moment I am studying at the Belarusian State University of Informatics and Radioelectronics (*BSUIR*) in the specialty _"information technology and control in technical system"_. I am actively looking for an internship to gain commercial experience and further develop my knowledge.
+I am a python backend developer from Minsk. At the moment I am studying at the Belarusian State University of Informatics and Radioelectronics (*BSUIR*) in the specialty _"information technology and control in technical system"_. I am actively looking for an internship to gain commercial experience and further develop my knowledge.
 
 ## Skills
 
 - Python 3.x
-- Experience with web frameworks such as Flask, Django, Django REST framework
+- Experience with web frameworks such as Flask, Django, Django REST framework, FastApi
 - Django ORM
 - PostgreSQL, SQLlite
 - Git
 - Celery
 - Docker, Docker-compose
+- Redis
+- RabbitMQ
   
-P.S I am actively studying the FastAPI web framework
 
 ## My projects 
 
